@@ -24,7 +24,7 @@
 
 ![Blocks](./images/functions.gif)
 
-* Usa en **primaria**
+* Uso en **primaria**
 
 ![Banana example](./images/banana-keyboard-12.png)
 
@@ -48,7 +48,7 @@
 
 ![Montaje Completo](./images/MontajeCompleto.jpg)
 
-Ampliable: multitud de **kits de ampliación**
+* Ampliable: multitud de **kits de ampliación**
 
 ![kit microbit](./images/kit_microbit.jpg)
 
