@@ -1,4 +1,4 @@
-# Una propuesta buena, bonita, barata y ampliable, divertida…
+# Una propuesta buena, bonita, barata y ampliable, divertida … : micro:bit
 
 ## Necesitamos:
 * Que sea **sencilla de usar** para empezar
