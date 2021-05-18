@@ -1,5 +1,11 @@
 # Una propuesta buena, bonita, barata y ampliable, divertida … : micro:bit
 
+### José Antonio Vacas 
+
+Licencia CC by SA @javacasm
+
+![Licencia CC by SA](./images/Licencia_CC_peque.png)
+
 ## Necesitamos:
 
 * Que sea **sencilla de usar** para empezar
